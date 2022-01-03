@@ -1,5 +1,6 @@
 # Artificial Intelligence Nanodegree Program Resources
 
+This reo contains my implementation for the projects required for the AI Nanodegree Program 
 ## Classroom Exercises
 
 ### 1. Constraint Satisfaction Problems
